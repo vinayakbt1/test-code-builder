@@ -1,0 +1,10 @@
+{
+  "modelVersion": "1.0.0",
+  "name": "Test_Code_Builder",
+  "version": "1.0.0-SNAPSHOT",
+  "source": "file:///home/vinayakbt3/test-code-builder/pom.xml",
+  "natures": [
+    "mule"
+  ],
+  "components": []
+}
